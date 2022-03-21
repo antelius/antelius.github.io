@@ -62,7 +62,9 @@ Björn Möller, Fredrik Antelius, Ryan Brunton, Tom van den Berg, Remco Witberg
 
 Proceedings of 2011 Fall Simulation Interoperability Workshop, 11F-SIW-060, Simulation Interoperability Standards Organization, September 2011.
 
-SISO SIWzie award winner
+SISO SIWzie award winner.
+
+M&S Journal, "The Tools Issue", Spring 2012
 
 ### [Time Representation and Interpretation in Simulation Interoperability – an Overview](11S-SIW-049.pdf)
 Mikael Karlsson, Fredrik Antelius, Björn Möller
