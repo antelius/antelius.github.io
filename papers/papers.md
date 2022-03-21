@@ -1,5 +1,12 @@
 # Papers
 
+## 2022
+
+### [HLA 4 Federate Protocol – Requirements and Solutions](2022-SIW-024.pdf)
+Björn Möller, Mikael Karlsson, Fredrik Antelius, Tom van den Berg, Doug Wood
+
+Proceedings of 2022 Simulation Interoperability Workshop, 2022-SIW-024, Simulation Interoperability Standards Organization, January 2022
+
 ## 2018
 
 ### [Towards a Standardized Federate Protocol for HLA 4](18W-SIW-037.pdf)
