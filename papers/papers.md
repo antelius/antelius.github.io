@@ -1,5 +1,19 @@
 # Papers
 
+## 2024 - Presentations
+
+### [Directed Interactions when mixing HLA 4 and HLA Evolved federates](2024-SIW-Presentation-11.pdf)
+Fredrik Antelius
+
+Proceedings of 2024 Simulation Interoperability Workshop, 2024-SIW-Presentation-11, Simulation Interoperability Standards Organization, February 2024
+
+## 2023 - Presentations
+
+### [Deep dive into the HLA 4 Federate Protocol](2023-SIM-Presentation-04.pdf)
+Fredrik Antelius
+
+Proceedings of 2023 SISO SIMposum Simulation, 2023-SIM-Presentation-04, Simulation Interoperability Standards Organization, September 2023
+
 ## 2022
 
 ### [HLA 4 Federate Protocol – Requirements and Solutions](2022-SIW-024.pdf)
