@@ -110,7 +110,7 @@ SISO SIWzie award winner
 
 ## 2009
 
-## [Early Experiences from Migrating to the HLA Evolved C++ and Java APIs](09S-SIW-083.pdf)
+### [Early Experiences from Migrating to the HLA Evolved C++ and Java APIs](09S-SIW-083.pdf)
 Björn Möller, Per-Philip Sollin, Mikael Karlsson, Fredrik Antelius
 
 Proceedings of 2009 Spring Simulation Interoperability Workshop, 09S-SIW-083, Simulation Interoperability Standards Organization, March 2009.
