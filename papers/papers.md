@@ -1,18 +1,38 @@
-# Papers
+# Papers, Presentations & Tutorials
 
-## 2024 - Presentations
+## 2025
+
+### [Panel - Achieving training system interoperability](ITEC-25-Panel-FA-Achieving_training_system_interoperability.pdf)
+Fredrik Antelius
+
+Panel discussion at 2025 International Training Technology Exhibition and Conference, Clarion Defence & Security, March 2025
+
+### [Federate Protocol - From the Drawing Board to the Cloud](2025-SIW-Presentation-002.pdf)
+Fredrik Antelius
+
+Proceedings of 2025 Simulation Interoperability Workshop, 2025-SIW-Presentation-002, Simulation Interoperability Standards Organization, February 2025
+
+
+## 2024
+
+### [Introduction to HLA 4](Tutorial_24T53_Introduction_to_HLA4.pdf)
+Björn Möller, Fredrik Antelius
+
+Tutorial at 2024 Interservice/Industry Training, Simulation and Education Conference, Tutorial 24T53, National Training & Simulation Association, December 2024
 
 ### [Directed Interactions when mixing HLA 4 and HLA Evolved federates](2024-SIW-Presentation-11.pdf)
 Fredrik Antelius
 
 Proceedings of 2024 Simulation Interoperability Workshop, 2024-SIW-Presentation-11, Simulation Interoperability Standards Organization, February 2024
 
-## 2023 - Presentations
+
+## 2023
 
 ### [Deep dive into the HLA 4 Federate Protocol](2023-SIM-Presentation-04.pdf)
 Fredrik Antelius
 
 Proceedings of 2023 SISO SIMposum Simulation, 2023-SIM-Presentation-04, Simulation Interoperability Standards Organization, September 2023
+
 
 ## 2022
 
@@ -21,12 +41,14 @@ Björn Möller, Mikael Karlsson, Fredrik Antelius, Tom van den Berg, Doug Wood
 
 Proceedings of 2022 Simulation Interoperability Workshop, 2022-SIW-024, Simulation Interoperability Standards Organization, January 2022
 
+
 ## 2018
 
 ### [Towards a Standardized Federate Protocol for HLA 4](18W-SIW-037.pdf)
 Björn Möller, Mikael Karlsson, Fredrik Antelius
 
 Proceedings of 2018 Winter Simulation Interoperability Workshop, 18W-SIW-037, Simulation Interoperability Standards Organization, January 2018
+
 
 ## 2016
 
@@ -42,6 +64,7 @@ Björn Möller, Fredrik Antelius, Martin Johansson, Mikael Karlsson
 Proceedings of 2016 Fall Simulation Interoperability Workshop, 2016-SIW-003, Simulation Interoperability
 Standards Organization, September 2016
 
+
 ## 2015
 
 ### [Towards RPR FOM 3: Revisiting the Datatypes](15F-SIW-039.pdf)
@@ -50,6 +73,7 @@ Björn Möller, Aaron Dubois, Patrice Le Leydour, Graham Shanks, René Verhage, 
 Proceedings of 2015 Fall Simulation Interoperability Workshop, 15F-SIW-039, Simulation Interoperability
 Standards Organization, September 2015
 
+
 ## 2014
 
 ### [Solving Common Interoperability Challenges with HLA-to-HLA Bridging](14F-SIW-064.pdf)
@@ -57,6 +81,7 @@ Björn Möller, Fredrik Antelius, Martin Johansson, Linus Lindholm, Per-Philip S
 
 Proceedings of 2014 Fall Simulation Interoperability Workshop, 14F-SIW-064, Simulation Interoperability 
 Standards Organization, September 2014.
+
 
 ## 2013
 
@@ -70,6 +95,7 @@ Standards Organization, September 2013
 Fredrik Antelius, Martin Johansson. Björn Möller
 
 Proceedings of 2013 Spring Simulation Interoperability Workshop, 13S-SIW-020, Simulation Interoperability Standards Organization, April 2013.
+
 
 ## 2011
 
@@ -92,6 +118,7 @@ Mikael Karlsson, Fredrik Antelius, Björn Möller
 
 Proceedings of 2011 Spring Simulation Interoperability Workshop, 11S-SIW-049, Simulation Interoperability Standards Organization, April 2011.
 
+
 ## 2010
 
 ### [Processes and Tools for Management and Reuse of FOM Modules](10F-SIW-031.pdf)
@@ -108,10 +135,14 @@ Proceedings of 2010 Spring Simulation Interoperability Workshop, 10S-SIW-058, Si
 
 SISO SIWzie award winner
 
+
 ## 2009
 
 ### [Early Experiences from Migrating to the HLA Evolved C++ and Java APIs](09S-SIW-083.pdf)
 Björn Möller, Per-Philip Sollin, Mikael Karlsson, Fredrik Antelius
+
+Proceedings of 2009 Spring Simulation Interoperability Workshop, 09S-SIW-083, Simulation Interoperability Standards Organization, April 2009.
+
 
 Proceedings of 2009 Spring Simulation Interoperability Workshop, 09S-SIW-083, Simulation Interoperability Standards Organization, March 2009.
 
