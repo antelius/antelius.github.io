@@ -1,6 +1,21 @@
-# Papers, Presentations & Tutorials
+# Papers, Presentations, Blog post & Tutorials
 
 ## 2025
+
+### [HLA 4 - The Best HLA version Ever](2025-CAX-Forum-HLA_4-The_Best_HLA_version_ever.pdf)
+Fredrik Antelius
+
+NATO CA2X2 (Computer Assisted Analysis, Exercise, Experimentation) Forum, organized by the NATO Modelling and Simulation Centre of Excellence in Rome, September 2025.
+
+### [Blog post - Migrating to HLA 4](2025-08-Blog-Migrating_to_HLA 4.pdf)
+Fredrik Antelius
+
+Blog post on [Pitch Technolgies.com](https://pitchtechnologies.com/2025/08/migrating-to-hla-4/), August 2025.
+
+### [Blog post - HLA 4 in the Cloud: Modernizing Distributed Simulation](2025-05-Blog-HLA_4_in_the_Cloud.pdf)
+Fredrik Antelius
+
+Blog post on [Pitch Technolgies.com](https://pitchtechnologies.com/2025/05/hla-4-in-the-cloud-modernizing-distributed-simulation/), May 2025.
 
 ### [Panel - Achieving training system interoperability](ITEC-25-Panel-FA-Achieving_training_system_interoperability.pdf)
 Fredrik Antelius
