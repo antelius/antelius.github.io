@@ -5,7 +5,7 @@
 ### [HLA 4 - The Best HLA version Ever](2025-CAX-Forum-HLA_4-The_Best_HLA_version_ever.pdf)
 Fredrik Antelius
 
-NATO CA2X2 (Computer Assisted Analysis, Exercise, Experimentation) Forum, organized by the NATO Modelling and Simulation Centre of Excellence in Rome, September 2025.
+NATO CA2X2 (Computer Assisted Analysis, Exercise, Experimentation) Forum, NATO Modelling and Simulation Centre of Excellence, September 2025.
 
 ### [Blog post - Migrating to HLA 4](2025-08-Blog-Migrating_to_HLA 4.pdf)
 Fredrik Antelius
