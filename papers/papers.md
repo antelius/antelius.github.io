@@ -1,4 +1,4 @@
-# Papers, Presentations, Blog post & Tutorials
+# Papers, Presentations, Blog posts & Tutorials
 
 ## 2025
 
