@@ -7,7 +7,7 @@ Fredrik Antelius
 
 NATO CA2X2 (Computer Assisted Analysis, Exercise, Experimentation) Forum, NATO Modelling and Simulation Centre of Excellence, September 2025.
 
-### [Blog post - Migrating to HLA 4](2025-08-Blog-Migrating_to_HLA 4.pdf)
+### [Blog post - Migrating to HLA 4](2025-08-Blog-Migrating_to_HLA_4.pdf)
 Fredrik Antelius
 
 Blog post on [Pitch Technolgies.com](https://pitchtechnologies.com/2025/08/migrating-to-hla-4/), August 2025.
